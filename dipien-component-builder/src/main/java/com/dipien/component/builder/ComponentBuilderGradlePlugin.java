@@ -13,7 +13,7 @@ public class ComponentBuilderGradlePlugin implements Plugin<Project> {
 		for (Project each : project.getAllprojects()) {
 			each.setGroup("com.dipien");
 			each.getExtensions().getExtraProperties().set("PUBLICATION_CONFIGURATION_ENABLED", true);
-			each.getExtensions().getExtraProperties().set("JAVADOC_PUBLICATION_ENABLED", true);
+			each.getExtensions().getExtraProperties().set("JAVADOC_PUBLICATION_ENABLED", false);
 			each.getExtensions().getExtraProperties().set("SOURCES_PUBLICATION_ENABLED", true);
 			each.getExtensions().getExtraProperties().set("SIGNING_PUBLICATION_ENABLED", true);
 			each.getExtensions().getExtraProperties().set("GITHUB_REPOSITORY_OWNER", "dipien");
