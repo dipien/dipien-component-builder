@@ -18,6 +18,6 @@ repositories {
 }
 
 dependencies {
-	compile(Libs.jdroid_java_core)
-	testCompile(Libs.junit)
+	implementation(Libs.jdroid_java_core)
+	testImplementation(Libs.junit)
 }
