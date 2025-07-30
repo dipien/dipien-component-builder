@@ -20,12 +20,12 @@ public class ComponentBuilderGradlePlugin implements Plugin<Project> {
 			each.getExtensions().getExtraProperties().set("GITHUB_USER_NAME", "dipien-ci");
 			each.getExtensions().getExtraProperties().set("GITHUB_USER_EMAIL", "dipien2020@gmail.com");
 			each.getExtensions().getExtraProperties().set("GITHUB_CHANGELOG_GENERATOR_ENABLED", true);
-			each.getExtensions().getExtraProperties().set("POM_ORGANIZATION_URL", "https://dipien.com");
-			each.getExtensions().getExtraProperties().set("POM_URL", "https://dipien.com");
+			each.getExtensions().getExtraProperties().set("POM_ORGANIZATION_URL", "https://medium.com/dipien");
+			each.getExtensions().getExtraProperties().set("POM_URL", "https://medium.com/dipien");
 			each.getExtensions().getExtraProperties().set("POM_ORGANIZATION_NAME", "Dipien");
 			each.getExtensions().getExtraProperties().set("POM_INCEPTION_YEAR", "2020");
 			each.getExtensions().getExtraProperties().set("POM_DEVELOPER_NAME", "Maxi Rosson");
-			each.getExtensions().getExtraProperties().set("POM_DEVELOPER_EMAIL", "opensource@dipien.com");
+			each.getExtensions().getExtraProperties().set("POM_DEVELOPER_EMAIL", "?");
 			each.getExtensions().getExtraProperties().set("POM_LICENSE_NAME", "The Apache License, Version 2.0");
 			each.getExtensions().getExtraProperties().set("POM_LICENSE_URL", "http://www.apache.org/licenses/LICENSE-2.0.txt");
 		}
