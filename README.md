@@ -1,4 +1,4 @@
-[![Dipien](https://raw.githubusercontent.com/dipien/dipien-component-builder/master/.github/dipien_logo.png)](http://www.dipien.com)
+[![Dipien](https://raw.githubusercontent.com/dipien/dipien-component-builder/master/.github/dipien_logo.png)](https://medium.com/dipien)
 
 # Dipien Component Builder
 Plugin, Tools &amp; Processes to build Dipien Components
@@ -35,19 +35,3 @@ Plugin, Tools &amp; Processes to build Dipien Components
 * Clone the project to the local environment
 * Execute the following command on the root directory
   * git config user.email your@email.com
-
-## Sponsor this project
-
-Sponsor this open source project to help us get the funding we need to continue working on it.
-
-* [Donate cryptocurrency](http://coinbase.dipien.com/)
-* [Donate with PayPal](http://paypal.dipien.com/)
-* [Donate on Patreon](http://patreon.dipien.com/)
-* [Become a member of Medium](https://membership.medium.dipien.com) [We will receive a portion of your membership fee]
-
-## Follow us
-* [Twitter](http://twitter.dipien.com)
-* [Medium](http://medium.dipien.com)
-* [Instagram](http://instagram.dipien.com)
-* [Pinterest](http://pinterest.dipien.com)
-* [GitHub](http://github.dipien.com)
